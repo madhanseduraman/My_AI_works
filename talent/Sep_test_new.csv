@@ -1,0 +1,314 @@
+Hiretype,Title,Age,Source,Joining_Center,IsRotationalShift,Qualification,DAndI,Stipend,EmploymentDurationInMonths,ExpectedJoiningDate,Expected_Month,NoticePeriod,Hike,Experienced,Joining_Center,Rank,IsRotationalShift,IT,Big_four,Qualification1,IsNoticePeriodReimbursementProvided,Final_Status
+Transfer,Mr,27,GDS LEAP,Bangalore,FALSE,E MBA,FALSE,0,0,12-11-2018,11,2,0%,1,Bangalore,44,FALSE,0,1,MBA,0,1
+New Employee,Ms,31,PORTAL,Bangalore,FALSE,B.Com,NA,0,0,29-07-2019,7,2,57%,1,Bangalore,42,FALSE,0,1,Grad,0,1
+New Employee,Mr,35,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Tech (ECE),FALSE,0,0,05-08-2019,8,2,1%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,29,EMPLOYEE REFERRAL,Gurgaon,FALSE,MBA,FALSE,0,0,12-08-2019,8,2,18%,1,Gurgaon,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,33,CONSULTANCY,Gurgaon,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,32%,1,Gurgaon,42,FALSE,0,0,MBA,0,0
+Transfer,Mr,40,GDS LEAP,Bangalore,FALSE,B.Com,FALSE,0,0,01-05-2019,5,2,0%,1,Bangalore,42,FALSE,0,1,Grad,0,1
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,PGDM,NA,0,0,29-07-2019,7,2,25%,1,Bangalore,44,FALSE,0,1,Post Grad,0,1
+New Employee,Mr,35,CONSULTANCY,Bangalore,FALSE,B.Tech,NA,0,0,12-08-2019,8,2,64%,1,Bangalore,32,FALSE,1,0,Grad,0,1
+New Employee,Mr,30,PORTAL,Bangalore,FALSE,BBA,FALSE,0,0,05-08-2019,8,2,25%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Mr,35,CONSULTANCY,Bangalore,FALSE,PGDM,FALSE,0,0,24-06-2019,6,2,21%,1,Bangalore,42,FALSE,0,1,Post Grad,0,0
+New Employee,Ms,24,PORTAL,Bangalore,FALSE,Btech,FALSE,0,0,12-08-2019,8,2,90%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,32,EMPLOYEE REFERRAL,Gurgaon,FALSE,Masters in Tax,NA,0,0,29-07-2019,7,2,-17%,1,Gurgaon,42,FALSE,0,0,Post Grad,0,0
+New Employee,Mr,30,CONSULTANCY,Bangalore,FALSE,BE,FALSE,0,0,09-09-2019,9,2,30%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Ms,30,EMPLOYEE REFERRAL,Gurgaon,FALSE,Business and finance,FALSE,0,0,19-08-2019,8,2,26%,1,Gurgaon,42,FALSE,0,1,Grad,0,0
+New Employee,Mr,29,PORTAL,Kochi,FALSE,B.Tech,FALSE,0,0,26-08-2019,8,2,30%,1,Kochi,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,30,CONSULTANCY,Trivandrum,FALSE,MS,FALSE,0,0,26-08-2019,8,2,43%,1,Trivandrum,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,BE,FALSE,0,0,12-08-2019,8,2,25%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,26,CONSULTANCY,Chennai,FALSE,BE,FALSE,0,0,02-09-2019,9,2,31%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,25,CONSULTANCY,Chennai,FALSE,BTech,FALSE,0,0,08-08-2019,8,2,34%,1,Chennai,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,33,CONSULTANCY,Chennai,FALSE,MCA,NA,0,0,12-08-2019,8,2,33%,1,Chennai,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,30,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,FALSE,0,0,05-08-2019,8,2,26%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Ms,31,PORTAL,Chennai,FALSE,Not Provided,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,28,PORTAL,Chennai,FALSE,Not Provided,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,1
+New Employee,Ms,29,PORTAL,Chennai,FALSE,Not Provided,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,24,CONSULTANCY,Bangalore,FALSE,BE,FALSE,0,0,05-08-2019,8,2,40%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Ms,24,CONSULTANCY,Bangalore,FALSE,B.TECH,FALSE,0,0,05-08-2019,8,2,43%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,05-08-2019,8,2,30%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,09-09-2019,9,2,47%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,24,CONSULTANCY,Bangalore,FALSE,BE,FALSE,0,0,09-09-2019,9,2,45%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,25,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,26-08-2019,8,2,37%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,05-08-2019,8,2,45%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Ms,25,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,19-08-2019,8,2,48%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,31,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,02-09-2019,9,2,45%,1,Bangalore,42,FALSE,1,1,Grad,0,0
+New Employee,Ms,25,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,19-08-2019,8,2,56%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,32,EMPLOYEE REFERRAL,Bangalore,FALSE,PGDM,FALSE,0,0,09-09-2019,9,2,34%,1,Bangalore,42,FALSE,0,1,Post Grad,0,0
+New Employee,Ms,34,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,26-08-2019,8,2,0%,1,Bangalore,42,FALSE,0,1,MBA,0,1
+New Employee,Ms,30,CONSULTANCY,Bangalore,FALSE,M.Com,FALSE,0,0,12-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,1,Post Grad,0,0
+Transfer,Ms,26,GDS LEAP,Bangalore,FALSE,BCA,FALSE,0,0,03-06-2019,6,2,0%,1,Bangalore,44,FALSE,1,1,Grad,0,0
+New Employee,Mr,28,EMPLOYEE REFERRAL,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,1,Grad,0,0
+New Employee,Ms,27,CONSULTANCY,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,1,Grad,0,1
+Transfer,Mr,33,GDS LEAP,Bangalore,FALSE,MBA,FALSE,0,0,03-06-2019,6,2,0%,1,Bangalore,42,FALSE,1,1,MBA,0,1
+New Employee,Ms,26,CONSULTANCY,Bangalore,FALSE,MBA,No,0,0,05-08-2019,8,2,35%,1,Bangalore,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,34%,1,Bangalore,44,FALSE,0,0,MBA,0,0
+New Employee,Mr,36,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,33%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Mr,30,PORTAL,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,36%,1,Bangalore,44,FALSE,0,0,MBA,0,1
+New Employee,Mr,30,CONSULTANCY,Bangalore,FALSE,BBM,NA,0,0,12-08-2019,8,2,30%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Mr,37,PORTAL,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,30%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Ms,27,CONSULTANCY,Bangalore,FALSE,BE,NA,0,0,09-09-2019,9,2,52%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Ms,21,CAMPUS,Gurgaon,FALSE,B.Com,NA,0,0,06-01-2020,1,2,0%,0,Gurgaon,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,22,CAMPUS,Gurgaon,FALSE,B.Com,NA,0,0,01-07-2019,7,2,0%,0,Gurgaon,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,25,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,FALSE,0,0,05-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,1,Grad,0,0
+New Employee,Ms,38,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,FALSE,0,0,05-08-2019,8,2,0%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Mr,36,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,22%,1,Bangalore,32,FALSE,0,0,MBA,0,1
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,PGDM,No,0,0,12-08-2019,8,2,27%,1,Bangalore,44,FALSE,0,0,Post Grad,0,0
+New Employee,Ms,25,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,1
+New Employee,Ms,26,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,44,FALSE,1,0,Grad,0,0
+New Employee,Ms,24,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,24,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,23,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,44,FALSE,1,0,Grad,0,0
+New Employee,Ms,25,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,32,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,36,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,25,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,29,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,24,PORTAL,Chennai,FALSE,Not Available,FALSE,0,0,02-09-2019,9,2,0%,1,Chennai,44,FALSE,1,0,Grad,0,0
+Re hire,Mr,26,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,NA,0,0,05-08-2019,8,2,34%,1,Bangalore,42,FALSE,0,1,MBA,0,0
+New Employee,Mr,35,CONSULTANCY,Bangalore,FALSE,MCA,FALSE,0,0,12-08-2019,8,2,27%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,09-09-2019,9,2,64%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,34,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,09-09-2019,9,2,40%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,09-09-2019,9,2,64%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,26,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,12-08-2019,8,2,67%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Ms,29,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,09-09-2019,9,2,41%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,31,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,09-09-2019,9,2,34%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,05-08-2019,8,2,42%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,30,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,12-08-2019,8,2,44%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,31,EMPLOYEE REFERRAL,Bangalore,FALSE,MCA,FALSE,0,0,19-08-2019,8,2,42%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,19-08-2019,8,2,37%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,28,CONSULTANCY,Bangalore,FALSE,MS,FALSE,0,0,12-08-2019,8,2,70%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,25,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,19-08-2019,8,2,38%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,31,PORTAL,Bangalore,FALSE,B.E,FALSE,0,0,12-08-2019,8,2,29%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,28,PORTAL,Bangalore,FALSE,B.E,FALSE,0,0,12-08-2019,8,2,45%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,25,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,12-08-2019,8,2,52%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,26,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,FALSE,0,0,09-09-2019,9,2,35%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Mr,30,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,FALSE,0,0,03-09-2019,9,2,41%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Mr,45,CONSULTANCY,Bangalore,FALSE,BCom,FALSE,0,0,09-09-2019,9,2,22%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,31,CONSULTANCY,Bangalore,FALSE,PGDM,FALSE,0,0,12-08-2019,8,2,0%,1,Bangalore,42,FALSE,0,1,Post Grad,0,1
+New Employee,Mr,28,EMPLOYEE REFERRAL,Bangalore,FALSE,PGPBABI,FALSE,0,0,09-09-2019,9,2,29%,1,Bangalore,42,FALSE,0,0,Post Grad,0,1
+Re hire,Mr,27,PORTAL,Bangalore,FALSE,PGDBA,FALSE,0,0,19-08-2019,8,2,0%,1,Bangalore,42,FALSE,0,1,Post Grad,0,0
+New Employee,Ms,40,CONSULTANCY,Bangalore,FALSE,MBA,No,0,0,26-08-2019,8,2,6%,1,Bangalore,32,FALSE,0,1,MBA,0,0
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,B.E,NA,0,0,16-09-2019,9,2,37%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,28,EMPLOYEE REFERRAL,Bangalore,FALSE,B.E,NA,0,0,23-09-2019,9,2,40%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,27,EMPLOYEE REFERRAL,Bangalore,FALSE,B.E,NA,0,0,19-08-2019,8,2,41%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Ms,26,EMPLOYEE REFERRAL,Bangalore,FALSE,BE,NA,0,0,19-08-2019,8,2,48%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,25,EMPLOYEE REFERRAL,Bangalore,FALSE,B.E,NA,0,0,23-09-2019,9,2,39%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,B.E,NA,0,0,19-08-2019,8,2,36%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+Re hire,Mr,24,CAMPUS,Bangalore,FALSE,MBA,NA,0,0,19-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,MBA,0,0
+New Employee,Mr,33,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,NA,0,0,19-08-2019,8,2,0%,1,Bangalore,42,FALSE,0,1,MBA,0,0
+New Employee,Mr,33,EMPLOYEE REFERRAL,Gurgaon,FALSE,Finance Bankig,NA,0,0,05-08-2019,8,2,40%,1,Gurgaon,32,FALSE,0,1,Grad,0,0
+New Employee,Ms,25,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,19-08-2019,8,2,27%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,29,PORTAL,Bangalore,FALSE,B.Tech,FALSE,0,0,23-09-2019,9,2,26%,1,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Mr,31,EMPLOYEE REFERRAL,Kochi,FALSE,MCA,NA,0,0,19-08-2019,8,2,37%,1,Kochi,44,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,29,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Tech,FALSE,0,0,22-07-2019,7,2,0%,1,Bangalore,44,FALSE,1,1,Grad,0,1
+New Employee,Mr,26,EMPLOYEE REFERRAL,Bangalore,FALSE,M.Com,NA,0,0,05-08-2019,8,2,33%,1,Bangalore,44,FALSE,0,1,Post Grad,0,1
+New Employee,Mr,24,PORTAL,Bangalore,FALSE,BSc,NA,0,0,19-08-2019,8,2,34%,1,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Ms,26,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,NA,0,0,19-08-2019,8,2,37%,1,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Ms,25,CWR TO FTE CONVERSION,Bangalore,FALSE,FINANCE,NA,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Ms,23,CWR TO FTE CONVERSION,Bangalore,FALSE,Course,NA,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,1,Grad,0,1
+New Employee,Mr,24,CWR TO FTE CONVERSION,Bangalore,FALSE,B.Com,NA,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,1,Grad,0,1
+New Employee,Ms,23,CWR TO FTE CONVERSION,Bangalore,FALSE,Course,NA,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,23,CWR TO FTE CONVERSION,Bangalore,FALSE,B.Com,NA,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,1,Grad,0,0
+New Employee,Mr,33,CONSULTANCY,Bangalore,FALSE,MBA,NA,0,0,26-08-2019,8,2,0%,1,Bangalore,32,FALSE,0,1,MBA,0,0
+New Employee,Mr,23,CWR TO FTE CONVERSION,Bangalore,FALSE,MBA,FALSE,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,1,MBA,0,1
+New Employee,Ms,29,CWR TO FTE CONVERSION,Bangalore,FALSE,MBA,FALSE,0,0,01-07-2019,7,2,2%,1,Bangalore,44,FALSE,0,1,MBA,0,0
+New Employee,Ms,24,CWR TO FTE CONVERSION,Bangalore,FALSE,MBA,FALSE,0,0,01-10-2019,10,2,6%,1,Bangalore,44,FALSE,0,1,MBA,0,0
+New Employee,Ms,23,CWR TO FTE CONVERSION,Bangalore,FALSE,B.E.,FALSE,0,0,01-07-2019,7,2,2%,1,Bangalore,44,FALSE,0,1,Grad,0,0
+New Employee,Mr,39,EMPLOYEE REFERRAL,Gurgaon,FALSE,PGDM,FALSE,0,0,05-08-2019,8,2,0%,1,Gurgaon,32,FALSE,0,0,Post Grad,0,0
+New Employee,Mr,35,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,26-08-2019,8,2,0%,1,Bangalore,32,FALSE,0,1,MBA,0,0
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,B.Tech,NA,0,0,07-10-2019,10,2,0%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,16-09-2019,9,2,46%,1,Bangalore,42,FALSE,0,1,MBA,0,0
+New Employee,Mr,27,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,19-08-2019,8,2,25%,1,Bangalore,42,FALSE,0,1,MBA,0,0
+Transfer,Mr,38,GDS LEAP,Kochi,FALSE,MBA,FALSE,0,0,01-07-2019,7,2,0%,0,Kochi,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,31,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,02-09-2019,9,2,21%,0,Bangalore,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,34,CONSULTANCY,Bangalore,FALSE,BCom,NA,0,0,26-08-2019,8,2,19%,1,Bangalore,32,FALSE,0,0,Grad,1,0
+New Employee,Ms,27,EMPLOYEE REFERRAL,Bangalore,FALSE,M.Com,NA,0,0,09-09-2019,9,2,34%,1,Bangalore,42,FALSE,0,1,Post Grad,0,1
+New Employee,Ms,34,CONSULTANCY,Bangalore,FALSE,B.com,FALSE,0,0,19-08-2019,8,2,35%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MA,NA,0,0,14-10-2019,10,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,0
+New Employee,Mr,30,CONSULTANCY,Bangalore,FALSE,MCA,FALSE,0,0,19-08-2019,8,2,31%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Ms,26,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,07-10-2019,10,2,25%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Ms,25,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,30-09-2019,9,2,45%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,25,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,30-09-2019,9,2,43%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,26-08-2019,8,2,44%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,05-08-2019,8,2,16%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,30-09-2019,9,2,33%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,32,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,05-08-2019,8,2,34%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,40,EMPLOYEE REFERRAL,Bangalore,FALSE,MCA,FALSE,0,0,02-09-2019,9,2,30%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Ms,26,EMPLOYEE REFERRAL,Bangalore,FALSE,MA,FALSE,0,0,26-08-2019,8,2,50%,1,Bangalore,44,FALSE,0,1,Post Grad,0,0
+New Employee,Ms,36,EMPLOYEE REFERRAL,Bangalore,FALSE,BE,NA,0,0,12-08-2019,8,2,30%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Ms,27,PORTAL,Bangalore,FALSE,M.Tech,FALSE,0,0,26-08-2019,8,2,68%,1,Bangalore,44,FALSE,0,0,Post Grad,0,0
+New Employee,Ms,28,EMPLOYEE REFERRAL,Bangalore,FALSE,BA,FALSE,0,0,05-08-2019,8,2,15%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Ms,37,EMPLOYEE REFERRAL,Bangalore,FALSE,CA,NA,0,0,02-09-2019,9,2,25%,1,Bangalore,32,FALSE,0,0,CA,0,0
+New Employee,Mr,32,EMPLOYEE REFERRAL,Bangalore,TRUE,MBA,FALSE,0,0,23-09-2019,9,2,69%,1,Bangalore,32,TRUE,0,0,MBA,0,1
+New Employee,Mr,31,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,NA,0,0,09-09-2019,9,2,32%,1,Bangalore,32,FALSE,0,0,MBA,0,1
+Transfer,Mr,28,GDS LEAP,Bangalore,FALSE,MBA,FALSE,0,0,01-07-2019,7,2,0%,1,Bangalore,44,FALSE,0,1,MBA,0,1
+New Employee,Ms,28,EMPLOYEE REFERRAL,Bangalore,FALSE,BTech,NA,0,0,09-09-2019,9,2,73%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Mr,30,CONSULTANCY,Bangalore,FALSE,BE,NA,0,0,09-09-2019,9,2,13%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,BE,NA,0,0,09-09-2019,9,2,46%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,BTech,NA,0,0,07-10-2019,10,2,50%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Ms,26,CONSULTANCY,Bangalore,FALSE,BE,NA,0,0,02-09-2019,9,2,33%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,BTech,NA,0,0,05-08-2019,8,2,70%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,31,CONSULTANCY,Bangalore,FALSE,BTech,NA,0,0,07-10-2019,10,2,43%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,32,CONSULTANCY,Bangalore,FALSE,BTech,NA,0,0,07-10-2019,10,2,46%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,BE,NA,0,0,09-09-2019,9,2,50%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,25,CONSULTANCY,Bangalore,FALSE,BE,NA,0,0,07-10-2019,10,2,60%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,BTech,NA,0,0,07-10-2019,10,2,56%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,26,EMPLOYEE REFERRAL,Bangalore,FALSE,BTech,NA,0,0,07-10-2019,10,2,59%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,MCA,NA,0,0,09-09-2019,9,2,31%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,34,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,26-08-2019,8,2,24%,1,Bangalore,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,33,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,14-10-2019,10,2,34%,1,Bangalore,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,36,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,28%,1,Bangalore,42,FALSE,0,0,MBA,0,0
+New Employee,Mr,45,CONSULTANCY,Bangalore,FALSE,B.Com,FALSE,0,0,07-10-2019,10,2,34%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Mr,27,PORTAL,Bangalore,FALSE,CA,NA,0,0,02-09-2019,9,2,20%,1,Bangalore,42,FALSE,0,0,CA,0,1
+Transfer,Mr,24,GDS LEAP,Kochi,FALSE,B.Com,FALSE,0,0,01-08-2019,8,2,0%,1,Kochi,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,41,PORTAL,Bangalore,FALSE,Chartered Accountant,FALSE,0,0,22-07-2019,7,2,18%,1,Bangalore,32,FALSE,0,0,CA,0,1
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,PGDAC,FALSE,0,0,14-10-2019,10,2,29%,1,Bangalore,44,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,BE,FALSE,0,0,16-09-2019,9,2,39%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,32,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Tech,FALSE,0,0,16-09-2019,9,2,32%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,26,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,19-08-2019,8,2,35%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,BE,FALSE,0,0,14-10-2019,10,2,45%,1,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,09-09-2019,9,2,37%,1,Bangalore,44,FALSE,1,0,Grad,0,0
+New Employee,Mr,33,CONSULTANCY,Bangalore,FALSE,MCA,FALSE,0,0,09-09-2019,9,2,35%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,28,PORTAL,Gurgaon,FALSE,B.Tech,NA,0,0,07-10-2019,10,2,37%,1,Gurgaon,42,FALSE,0,0,Grad,0,1
+New Employee,Mr,39,EMPLOYEE REFERRAL,Bangalore,FALSE,BA,No,0,0,05-08-2019,8,2,18%,1,Bangalore,32,FALSE,0,0,Grad,0,0
+New Employee,Ms,27,PORTAL,Bangalore,FALSE,BCom,FALSE,0,0,12-08-2019,8,2,28%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Mr,25,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,09-09-2019,9,2,20%,1,Bangalore,44,FALSE,0,1,MBA,0,0
+New Employee,Mr,32,CONSULTANCY,Bangalore,FALSE,BSc,NA,0,0,21-10-2019,10,2,30%,1,Bangalore,32,FALSE,0,0,Grad,1,1
+New Employee,Mr,31,EMPLOYEE REFERRAL,Bangalore,FALSE,M.com,FALSE,0,0,23-09-2019,9,2,95%,1,Bangalore,32,FALSE,0,1,Post Grad,0,0
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,30-09-2019,9,2,56%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Ms,21,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,MBA,0,0
+New Employee,Mr,22,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Ms,21,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,0
+New Employee,Mr,21,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,27,PORTAL,Bangalore,FALSE,B.Com,NA,0,0,16-09-2019,9,2,43%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+Re hire,Mr,20,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+Re hire,Mr,21,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+Re hire,Mr,23,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Ms,22,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,21,CAMPUS,Bangalore,FALSE,B Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+Re hire,Ms,27,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,23,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Ms,23,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Ms,25,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,23,CAMPUS,Bangalore,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,23,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,24,CAMPUS,Chennai,FALSE,MBA,FALSE,0,0,05-08-2019,8,2,0%,0,Chennai,44,FALSE,0,0,MBA,0,1
+New Employee,Ms,28,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,26-08-2019,8,2,33%,1,Bangalore,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,26,CAMPUS,Bangalore,FALSE,MBA,NA,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,MBA,0,1
+New Employee,Mr,26,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,NA,0,0,12-08-2019,8,2,46%,1,Bangalore,44,FALSE,0,0,MBA,0,1
+New Employee,Mr,25,CONSULTANCY,Bangalore,FALSE,B.Tech,NA,0,0,12-08-2019,8,2,32%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+Re hire,Mr,23,CAMPUS,Bangalore,FALSE,M Com,FALSE,0,0,19-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,25,EMPLOYEE REFERRAL,Bangalore,FALSE,MS,FALSE,0,0,19-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Mr,33,PORTAL,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,34%,1,Bangalore,32,FALSE,0,0,Grad,0,1
+New Employee,Ms,31,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,NA,0,0,23-09-2019,9,2,30%,1,Bangalore,42,FALSE,0,1,MBA,0,1
+New Employee,Mr,32,CONSULTANCY,Bangalore,FALSE,MBA,NA,0,0,05-08-2019,8,2,88%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+Re hire,Ms,29,EMPLOYEE REFERRAL,Kochi,FALSE,PGDM,FALSE,0,0,29-07-2019,7,2,10%,1,Kochi,44,FALSE,0,1,Post Grad,0,1
+Transfer,Ms,33,GDS LEAP,Bangalore,FALSE,Msc,FALSE,0,0,01-09-2019,9,2,0%,1,Bangalore,32,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,23,PORTAL,Chennai,FALSE,BSc,FALSE,0,0,23-09-2019,9,2,39%,1,Chennai,44,FALSE,0,0,Grad,0,0
+New Employee,Mr,28,PORTAL,Chennai,FALSE,MBA,FALSE,0,0,26-08-2019,8,2,54%,1,Chennai,44,FALSE,0,0,MBA,0,0
+New Employee,Ms,23,PORTAL,Chennai,FALSE,BSc,FALSE,0,0,23-09-2019,9,2,35%,1,Chennai,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,24,EMPLOYEE REFERRAL,Chennai,FALSE,MBA,FALSE,0,0,23-09-2019,9,2,23%,1,Chennai,44,FALSE,0,0,MBA,0,1
+New Employee,Mr,25,PORTAL,Bangalore,FALSE,B.Com,FALSE,0,0,05-08-2019,8,2,11%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,23,PORTAL,Bangalore,FALSE,M.Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Mr,23,PORTAL,Bangalore,FALSE,M.Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,26,PORTAL,Chennai,FALSE,MBA,FALSE,0,0,26-08-2019,8,2,55%,1,Chennai,44,FALSE,0,0,MBA,0,1
+New Employee,Ms,22,PORTAL,Bangalore,FALSE,M.Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,23,PORTAL,Bangalore,FALSE,M.Com,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,25,EMPLOYEE REFERRAL,Bangalore,FALSE,M.Com,FALSE,0,0,05-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Mr,30,EMPLOYEE REFERRAL,Bangalore,FALSE,M.Com,NA,0,0,05-08-2019,8,2,26%,1,Bangalore,42,FALSE,0,0,Post Grad,0,1
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,B.Tech,NA,0,0,14-10-2019,10,2,34%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Ms,29,EMPLOYEE REFERRAL,Gurgaon,FALSE,MBA,NA,0,0,05-08-2019,8,2,27%,1,Gurgaon,42,FALSE,0,0,MBA,0,1
+New Employee,Ms,32,CONSULTANCY,Bangalore,FALSE,Bachelor's Degree - Finance,FALSE,0,0,05-08-2019,8,2,32%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,25,EMPLOYEE REFERRAL,Bangalore,FALSE,B.Com,FALSE,0,0,05-08-2019,8,2,3471%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,32,CONSULTANCY,Bangalore,FALSE,PGDM,FALSE,0,0,05-08-2019,8,2,21%,1,Bangalore,44,FALSE,0,1,Post Grad,0,1
+New Employee,Mr,28,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,14-10-2019,10,2,30%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Ms,24,CAMPUS,Bangalore,FALSE,M.Tech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,21,CAMPUS,Bangalore,FALSE,M.Tech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,22,CAMPUS,Bangalore,FALSE,M.Tech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,28,CAMPUS,Bangalore,FALSE,M.Tech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,28,CONSULTANCY,Bangalore,FALSE,B.E,FALSE,0,0,28-10-2019,10,2,18%,0,Bangalore,42,FALSE,1,0,Grad,0,0
+New Employee,Mr,26,PORTAL,Bangalore,FALSE,B.Tech,FALSE,0,0,09-09-2019,9,2,21%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,29,PORTAL,Bangalore,FALSE,B.Tech,FALSE,0,0,23-09-2019,9,2,60%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,27,CONSULTANCY,Bangalore,FALSE,B.Tech,FALSE,0,0,28-10-2019,10,2,46%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,25,PORTAL,Bangalore,FALSE,B.E,FALSE,0,0,28-10-2019,10,2,46%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,32,PORTAL,Bangalore,FALSE,M.Tech,FALSE,0,0,30-09-2019,9,2,32%,1,Bangalore,42,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,31,CONSULTANCY,Bangalore,FALSE,MCA,FALSE,0,0,16-09-2019,9,2,43%,1,Bangalore,42,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,21,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,25,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,0
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,0
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,22,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,21,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,0
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,28,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,21,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,25,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,12-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,22,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,21,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,23,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,21,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Ms,22,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,22,CAMPUS,Bangalore,FALSE,MTech,FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,35,PORTAL,Bangalore,FALSE,Bsc,FALSE,0,0,23-09-2019,9,2,29%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,32,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,09-09-2019,9,2,27%,0,Bangalore,44,FALSE,0,0,MBA,0,1
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,14-10-2019,10,2,25%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Mr,21,EMPLOYEE REFERRAL,Bangalore,FALSE,BBM,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,MTech,FALSE,0,0,19-08-2019,8,2,15%,1,Bangalore,42,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,26,EMPLOYEE REFERRAL,Kochi,FALSE,M.Com,FALSE,0,0,05-08-2019,8,2,3233%,1,Kochi,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,37,PORTAL,Kochi,FALSE,Master's Degree - TECHNOLOGY,FALSE,0,0,05-08-2019,8,2,39%,1,Kochi,42,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,22,EMPLOYEE REFERRAL,Bangalore,FALSE,BE,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,34,PORTAL,Bangalore,FALSE,MBA,FALSE,0,0,12-08-2019,8,2,5%,0,Bangalore,44,FALSE,0,0,MBA,0,1
+New Employee,Ms,25,EMPLOYEE REFERRAL,Bangalore,FALSE,BE,FALSE,0,0,05-08-2019,8,2,55%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,23,PORTAL,Bangalore,FALSE,MCom,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,0
+New Employee,Mr,23,PORTAL,Bangalore,FALSE,BTech,FALSE,0,0,05-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,20,EMPLOYEE REFERRAL,Bangalore,FALSE,BBA,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,23,EMPLOYEE REFERRAL,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,24,PORTAL,Bangalore,FALSE,BE,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,BCA,FALSE,0,0,12-08-2019,8,2,33%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,22,EMPLOYEE REFERRAL,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,10%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,29%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,20,EMPLOYEE REFERRAL,Bangalore,FALSE,BSc,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,23,EMPLOYEE REFERRAL,Bangalore,FALSE,BCom,FALSE,0,0,05-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,25,EMPLOYEE REFERRAL,Kochi,FALSE,BA,FALSE,0,0,19-08-2019,8,2,-22%,1,Kochi,44,FALSE,0,0,Grad,0,1
+New Employee,Ms,26,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,16-09-2019,9,2,28%,1,Bangalore,44,FALSE,0,0,MBA,0,1
+New Employee,Mr,29,CONSULTANCY,Bangalore,FALSE,COMPUTER SCIENCE,NA,0,0,30-09-2019,9,2,41%,1,Bangalore,42,FALSE,1,0,Post Grad,0,1
+Re hire,Ms,24,CAMPUS,Bangalore,FALSE,MBA,FALSE,0,0,19-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,MBA,0,1
+Re hire,Mr,22,CAMPUS,Bangalore,FALSE,M Com,FALSE,0,0,19-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,0,Post Grad,0,1
+Re hire,Ms,23,CAMPUS,Bangalore,FALSE,M Com,FALSE,0,0,19-08-2019,8,2,0%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,30,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,19-08-2019,8,2,26%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Ms,35,CONSULTANCY,Bangalore,FALSE,MBA,FALSE,0,0,23-09-2019,9,2,21%,1,Bangalore,42,FALSE,0,1,MBA,0,1
+New Employee,Mr,29,PORTAL,Bangalore,FALSE,MBA,FALSE,0,0,12-08-2019,8,2,0%,1,Bangalore,44,FALSE,0,0,MBA,0,0
+New Employee,Ms,39,PORTAL,Bangalore,FALSE,MSc,FALSE,0,0,12-08-2019,8,2,89%,1,Bangalore,44,FALSE,0,0,Post Grad,0,1
+New Employee,Ms,27,PORTAL,Bangalore,FALSE,MSc,FALSE,0,0,12-08-2019,8,2,10%,0,Bangalore,44,FALSE,0,0,Post Grad,0,1
+Re hire,Ms,28,PORTAL,Bangalore,FALSE,BBA,FALSE,0,0,12-08-2019,8,2,25%,1,Bangalore,44,FALSE,0,1,Grad,0,1
+New Employee,Ms,27,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,12-08-2019,8,2,30%,1,Bangalore,44,FALSE,0,0,Grad,0,1
+New Employee,Mr,35,EMPLOYEE REFERRAL,Bangalore,FALSE,MCA,FALSE,0,0,29-07-2019,7,2,100%,1,Bangalore,42,FALSE,1,0,Post Grad,0,0
+New Employee,Mr,35,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,23-09-2019,9,2,32%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Mr,24,PORTAL,Bangalore,FALSE,BTech,FALSE,0,0,05-08-2019,8,2,33%,1,Bangalore,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,24,CWR TO FTE CONVERSION,Bangalore,FALSE,BTech,FALSE,0,0,29-07-2019,7,2,98%,1,Bangalore,44,FALSE,1,1,Grad,0,1
+New Employee,Mr,31,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,30-09-2019,9,2,46%,1,Bangalore,42,FALSE,1,0,MBA,0,1
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,MTech,FALSE,0,0,30-09-2019,9,2,44%,1,Bangalore,44,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,31,EMPLOYEE REFERRAL,Bangalore,FALSE,PGPM,FALSE,0,0,12-08-2019,8,2,13%,1,Bangalore,42,FALSE,1,1,Post Grad,0,0
+New Employee,Mr,31,PORTAL,Bangalore,FALSE,MBA,FALSE,0,0,30-09-2019,9,2,30%,1,Bangalore,42,FALSE,1,1,MBA,0,1
+New Employee,Mr,35,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,30-09-2019,9,2,36%,1,Bangalore,42,FALSE,1,0,MBA,0,0
+New Employee,Ms,36,EMPLOYEE REFERRAL,Bangalore,FALSE,PGDBA,FALSE,0,0,30-09-2019,9,2,48%,1,Bangalore,44,FALSE,0,0,Post Grad,0,0
+Re hire,Ms,30,EMPLOYEE REFERRAL,Bangalore,FALSE,BCom,FALSE,0,0,23-09-2019,9,2,34%,1,Bangalore,42,FALSE,0,0,Grad,0,0
+New Employee,Ms,30,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,12-08-2019,8,2,14%,1,Bangalore,42,FALSE,0,0,MBA,0,0
+Re hire,Mr,33,PORTAL,Kochi,FALSE,PGDM (MBA),FALSE,0,0,12-08-2019,8,2,-21%,1,Kochi,44,FALSE,0,1,Post Grad,0,0
+Transfer,Mr,27,GDS LEAP,Kochi,FALSE,PGDM,FALSE,0,0,01-08-2019,8,2,0%,1,Kochi,44,FALSE,0,1,Post Grad,0,0
+Re hire,Mr,28,PORTAL,Bangalore,FALSE,BBM,FALSE,0,0,12-08-2019,8,2,10%,1,Bangalore,44,FALSE,0,1,Grad,0,0
+New Employee,Mr,32,EMPLOYEE REFERRAL,Bangalore,FALSE,MBA,FALSE,0,0,12-08-2019,8,2,30%,1,Bangalore,42,FALSE,0,0,MBA,0,1
+New Employee,Ms,27,PORTAL,Kochi,TRUE,B.Com,NA,0,0,12-08-2019,8,2,0%,1,Kochi,44,TRUE,0,0,Grad,0,1
+New Employee,Ms,35,CONSULTANCY,Bangalore,FALSE,BBA,FALSE,0,0,19-08-2019,8,2,71%,1,Bangalore,42,FALSE,0,0,Grad,0,1
+New Employee,Ms,41,EMPLOYEE REFERRAL,Kochi,FALSE,B.Com,FALSE,0,0,07-10-2019,10,2,33%,1,Kochi,44,FALSE,0,0,Grad,0,0
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,BTech,FALSE,0,0,30-09-2019,9,2,21%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Ms,29,EMPLOYEE REFERRAL,Bangalore,FALSE,BTech,FALSE,0,0,30-09-2019,9,2,45%,1,Bangalore,42,FALSE,1,0,Grad,0,1
+New Employee,Mr,22,CAMPUS,Bangalore,FALSE,M.Tech (negrated),FALSE,23000,8.5,05-08-2019,8,1,0%,0,Bangalore,4,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,27,CONSULTANCY,Chennai,FALSE,MCA,FALSE,0,0,14-10-2019,10,2,53%,1,Chennai,44,FALSE,1,0,Post Grad,0,1
+New Employee,Mr,26,CONSULTANCY,Chennai,FALSE,BTech,FALSE,0,0,23-09-2019,9,2,27%,1,Chennai,44,FALSE,1,0,Grad,0,1
+New Employee,Mr,26,CONSULTANCY,Bangalore,FALSE,BTech,FALSE,0,0,05-08-2019,8,2,30%,1,Bangalore,42,FALSE,1,0,Grad,0,1
